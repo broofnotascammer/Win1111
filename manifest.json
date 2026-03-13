@@ -1,0 +1,14 @@
+{
+  "name": "BrowserOS",
+  "short_name": "BrowserOS",
+  "description": "Windows 11 simulation running entirely in your browser",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#0078d4",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
